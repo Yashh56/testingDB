@@ -1,6 +1,73 @@
 {
   "version": 1,
   "projectId": "725ff87f-8b45-48dd-bdc7-9a5fedff3c05",
-  "nodes": [],
-  "updatedAt": "2026-02-21T10:09:08.326Z"
+  "nodes": [
+    {
+      "tableId": "defaultdb.Attachment",
+      "x": -94.31016691957512,
+      "y": -47.15508345978756,
+      "width": 235,
+      "height": 238
+    },
+    {
+      "tableId": "defaultdb.Category",
+      "x": 431.61456752655533,
+      "y": 41.71411229135052,
+      "width": 220,
+      "height": 123
+    },
+    {
+      "tableId": "defaultdb.Chapter",
+      "x": 810.6330804248862,
+      "y": -34.45948406676783,
+      "width": 220,
+      "height": 353
+    },
+    {
+      "tableId": "defaultdb.Course",
+      "x": -469.7371775417299,
+      "y": 266.57177541729897,
+      "width": 220,
+      "height": 353
+    },
+    {
+      "tableId": "defaultdb.Purchase",
+      "x": 544.0613050075873,
+      "y": 379.01851289833087,
+      "width": 220,
+      "height": 209
+    },
+    {
+      "tableId": "defaultdb.StripeCustomer",
+      "x": 997.4397572078908,
+      "y": 315.54051593323214,
+      "width": 268,
+      "height": 209
+    },
+    {
+      "tableId": "defaultdb.UserProgress",
+      "x": -50.78239757207888,
+      "y": 736.2731411229134,
+      "width": 252,
+      "height": 238
+    },
+    {
+      "tableId": "defaultdb._prisma_migrations",
+      "x": 350,
+      "y": 700,
+      "width": 302,
+      "height": 296
+    },
+    {
+      "tableId": "defaultdb.schema_migrations",
+      "x": 700,
+      "y": 700,
+      "width": 294,
+      "height": 181
+    }
+  ],
+  "zoom": 0.5513721552878179,
+  "panX": 295.9680388219545,
+  "panY": 54.916666666666686,
+  "updatedAt": "2026-02-21T13:42:24.095Z"
 }
